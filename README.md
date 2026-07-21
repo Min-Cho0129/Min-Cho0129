@@ -44,4 +44,4 @@ Systems programming projects focused on Unix process control and operating syste
 ## Contact
 
 - GitHub: [@Min-Cho0129](https://github.com/Min-Cho0129)
-- LinkedIn: Add your LinkedIn URL here
+- LinkedIn: www.linkedin.com/in/minkyu-cho-dev
