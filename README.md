@@ -1,6 +1,6 @@
 # Hi, I'm Minkyu Cho
 
-I'm a recent Computer Science graduate from the University of Wisconsin–Madison, interested in backend engineering, databases, systems programming, and AI-powered applications.
+I'm a recent Computer Science graduate from the University of Wisconsin-Madison, interested in backend engineering, databases, systems programming, and AI-powered applications.
 
 I enjoy building practical software projects that connect APIs, databases, and user-facing features into useful products.
 
@@ -20,19 +20,21 @@ I enjoy building practical software projects that connect APIs, databases, and u
 
 ## Featured Projects
 
-### AI-Powered Stock News Analysis Platform
+### [AI-Powered Stock News Analysis Platform](https://github.com/Min-Cho0129/daily-stock-signal)
 A full-stack web application that summarizes financial news and maps market events to relevant stocks and industries using AI.
 
 - Built RESTful APIs and PostgreSQL data models for news, company information, and AI-generated analysis
 - Integrated the OpenAI API to generate structured JSON summaries and market insights
 - Containerized the frontend, backend, and database with Docker
+- Repository: [daily-stock-signal](https://github.com/Min-Cho0129/daily-stock-signal)
 
-### Flappy Fisherman — Multiplayer Game Backend
+### [Flappy Fisherman — Multiplayer Game Backend](https://github.com/Min-Cho0129/flappy-fish)
 A team-based multiplayer game backend built with Spring Boot and MySQL.
 
 - Developed REST APIs for authentication, score synchronization, and leaderboard functionality
 - Implemented MySQL persistence for player records and score data
 - Served as Product Owner by translating requirements into user stories and development tasks
+- Repository: [flappy-fish](https://github.com/Min-Cho0129/flappy-fish)
 
 ### Unix Shell and xv6 System Call Extensions
 Systems programming projects focused on Unix process control and operating system interfaces.
@@ -44,4 +46,4 @@ Systems programming projects focused on Unix process control and operating syste
 ## Contact
 
 - GitHub: [@Min-Cho0129](https://github.com/Min-Cho0129)
-- LinkedIn: www.linkedin.com/in/minkyu-cho-dev
+- LinkedIn: [minkyu-cho-dev](https://www.linkedin.com/in/minkyu-cho-dev)
